@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'How it works.',
+    paragraph: ''
   };
 
   return (
@@ -71,7 +71,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Subscribe
                     </h4>
                   <p className="m-0 text-sm">
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
@@ -93,7 +93,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Join the Slack Community
                     </h4>
                   <p className="m-0 text-sm">
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Schedule An Intro Phone Call
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    I want to know everything about your grow operation. I keep these details on hand so I can offer the most relevant solutions to your problems moving forward.
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                  Ask questions
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Slack is a community chat app. When you ask a question, 
                     </p>
                 </div>
               </div>
@@ -159,7 +159,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Ask for help
                     </h4>
                   <p className="m-0 text-sm">
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
@@ -181,7 +181,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Explore Membership Offerings
                     </h4>
                   <p className="m-0 text-sm">
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.

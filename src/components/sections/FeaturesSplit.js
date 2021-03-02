@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Scient Sense brings value at a fraction of the cost.',
+    paragraph: 'Our consultants have fancy degrees titles, have led R&D at internationally renowned hydroponic fertilizer company, and have real world experience growing cannabis. When you learn how to incorporate us into your planning and decisions making process, you will reach new heights.'
   };
 
   return (
@@ -67,10 +67,10 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Technical Support
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Get answers when you need them.
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/slack-question-1.png')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -93,10 +93,10 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Project Work
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Your subscription includes four hours of project work per month
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/slack-question-2.png')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -119,10 +119,10 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  More than just consulting
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Explore other community benefits
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/slack-rooms.png')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
