@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'How it works.',
-    paragraph: ''
+    title: 'Join Our Community of Driven Professionals.',
+    paragraph: 'Together we move faster and further.'
   };
 
   return (
@@ -71,11 +71,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Subscribe
-                    </h4>
+                    Solve Problems Faster
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Expert advice at your fingertips means you can go from question to answer faster, speeding up your business and production decisions.
+                  </p>
                 </div>
               </div>
             </div>
@@ -93,11 +93,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Join the Slack Community
-                    </h4>
+                    Lead With Confidence
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    If two heads are better than one, a community of like-minded and driven professionals is even better. By growing and learning within a community of scientific experts, entreprenuers, and master growers dedicated to professional growth, you can't help but up-levelling your skills and business. 
+                  </p>
                 </div>
               </div>
             </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Schedule An Intro Phone Call
+                    Scale Successfully
                     </h4>
                   <p className="m-0 text-sm">
-                    I want to know everything about your grow operation. I keep these details on hand so I can offer the most relevant solutions to your problems moving forward.
+                    You know how to grow. But scaling from your garage to an industrial facility requires a new set of skills. Let us guide you through the process. 
                     </p>
                 </div>
               </div>
@@ -137,11 +137,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                  Ask questions
+                  Lower Your Input Costs
                     </h4>
                   <p className="m-0 text-sm">
-                    Slack is a community chat app. When you ask a question, 
-                    </p>
+                    The cannabis cultivation industry is plagued by massive mark ups on goods like fertilizer and pest control. Farmers have been surviving on razor thin margins for decades. There are lessons here.  
+                  </p>
                 </div>
               </div>
             </div>
@@ -159,11 +159,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Ask for help
-                    </h4>
+                    Grow You Network
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    You are only as wealthy as your network. Scient Sense isn't just a chat app. It's a community. We celebrate each other's victories and push each other to be the best version of ourselves. We share ideas, tips, and tricks to help each other succeed.
+                  </p>
                 </div>
               </div>
             </div>
@@ -181,11 +181,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Explore Membership Offerings
-                    </h4>
+                    Increase Your Yields
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    There is more to growing herb than just the science. It's an art. We respect and honor the history of this industry and the leaders that got it to where we are today. 
+                  </p>
                 </div>
               </div>
             </div>

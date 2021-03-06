@@ -68,13 +68,13 @@ const FeaturesSplit = ({
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Technical Support
-                  </div>
+                </div>
                 <h3 className="mt-0 mb-12">
                   Get answers when you need them.
-                  </h3>
+                </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  Post your question to the community Slack channel or as a private message. We'll either answer it right away or let you know how long it will take to get your answer.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -99,8 +99,8 @@ const FeaturesSplit = ({
                   Your subscription includes four hours of project work per month
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                   Between managing your crew and keeping the plants healthy, you don't have time to spend on those tasks that would be "nice to get to." That's we Scient Sense comes in. Thinking about upgrading to LEDs? Let us do the research for you. Interested in cost savings? We'll let you know where the fat is so you can increase those margins. And if you need help with larger projects, we are available for those, too.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -125,8 +125,8 @@ const FeaturesSplit = ({
                   Explore other community benefits
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  Your membership gives you access to product discounts. And you will have the opportunity to build your industry network and learn from the trials and successes of your peers. Scient Sense consultants will also summarize research that will help you excel.
+                </p>
               </div>
               <div className={
                 classNames(

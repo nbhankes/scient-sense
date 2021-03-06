@@ -9,7 +9,7 @@
   }
 }
 
-@include media(">medium") {
+@media (min-width: 1175px) {
   .features-split {
     .section-inner {
       padding-top: $features-split--padding-t__desktop;
